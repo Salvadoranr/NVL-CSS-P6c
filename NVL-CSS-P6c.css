@@ -1,0 +1,43 @@
+img {
+    width: 40px;
+    height: 40px;
+}
+h3{
+    margin-left: 410px
+}
+[Center$=text] {
+    text-align: center;
+    font-style: italic;
+}
+[Center$=Ingredientes] {
+    margin-left: 269px;
+}
+
+
+[Presentation] {
+    width: 600px;
+    height: 300px;
+}
+
+[Presentation="contenedor"] {
+    padding: 0px 100px 20px 100px;
+    border-bottom: 4px solid green;
+    display: block;
+    margin: auto;
+}
+.separator_img{
+    padding: 10px;
+}
+.line_green{
+    border-bottom: 2px solid green;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.text_content{
+    width:784px;
+    margin-left: 100px;
+    text-align: justify;
+}
+
+
+
